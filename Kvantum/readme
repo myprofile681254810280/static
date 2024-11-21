@@ -1,0 +1,13 @@
+区分kwin和compiz的备份
+
+双方的shadow处理不一样,所以窗体外边界不一样
+
+用patch保存修改可能不是个好办法,因为原文件的改动很大,所以patch会失效
+kvconfig需要用ini修改,svg则是直接在末尾衔接
+
+-----------------------------
+
+breeze无法开大阴影，因为开大阴影的时候，konsole和dolphin都会出现明显的黑边框
+但这不是kv的问题，而是breeze的问题，换成不是breeze的aurorae deco theme，就可以了
+可是首先aurorae theme的阴影效果不如breeze,无法接受
+其次，breeze中可以设定窗口是否带标题栏等，而aurorae是没有这些复杂配置的

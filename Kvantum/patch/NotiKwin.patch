@@ -1,0 +1,36 @@
+--- KvArcNotiKwin/k	2019-09-10 02:45:37.805569972 +0800
++++ KvArcNotiKwin/KvArcNotiKwin.kvconfig	2019-09-10 02:40:28.128788671 +0800
+@@ -28,9 +28,9 @@
+ menubar_mouse_tracking=true
+ toolbutton_style=1
+ double_click=false
+-translucent_windows=false
+-blurring=false
+-popup_blurring=false
++translucent_windows=true
++blurring=true
++popup_blurring=true
+ vertical_spin_indicators=false
+ spin_button_width=32
+ fill_rubberband=false
+@@ -58,7 +58,7 @@
+ tree_branch_line=true
+ 
+ [GeneralColors]
+-window.color=#f5f6f7
++window.color=#f5f6f7a0
+ base.color=white
+ alt.base.color=#f8f8f8
+ button.color=#fbfbfc
+@@ -80,9 +80,9 @@
+ 
+ [Hacks]
+ transparent_ktitle_label=true
+-transparent_dolphin_view=false
++transparent_dolphin_view=true
+ transparent_pcmanfm_sidepane=true
+-blur_translucent=false
++blur_translucent=true
+ transparent_menutitle=true
+ respect_darkness=false
+ kcapacitybar_as_progressbar=true

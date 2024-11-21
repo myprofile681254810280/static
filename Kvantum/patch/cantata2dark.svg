@@ -1,0 +1,46 @@
+
+  <!-- 不透明的toolbar,需要和对应的decro 主题一起用 -->
+  <rect id="rect-normal" width="1.0" x="0" y="0" height="1.0" style="opacity:1.0;fill:#E7E8EB;fill-opacity:1;stroke:none"/>
+    <linearGradient id="linearGradient2643">
+      <stop id="stop2639" offset="0" style="stop-opacity:.353" />
+      <stop id="stop2655" offset=".45" style="stop-opacity:.137" />
+      <stop id="stop2641" offset="1" style="stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5971" x1="53" x2="53" y1="53" y2="59"
+       gradientTransform="matrix(0.15625,0,0,0.83333333,296.71875,572.83321)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+  <path
+     id="rect-normal-bottom"
+     d="m 305,621.99988 5,0 0,-5 -5,0 z"
+     style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:url(#linearGradient5971);stroke:none;stroke-width:0.55500001" />
+  <!--主窗口,在调节blur 亮度后,可以降低opacity-->
+  <rect id="window-normal" width="40" x="759" y="488.02875" height="40" style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:none"/>
+
+<!--cantata边框-->
+<g style="opacity:0.0;stroke:none">
+  <g style="stroke:none" id="common-normal-left" transform="translate(35,5)">
+  </g>
+  <g style="stroke:none" id="common-normal-topleft" transform="translate(35,5)">
+  </g>
+  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-left" id="common-normal-top" transform="matrix(0,1,-1,0,1513,867)"/>
+  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-topleft" id="common-normal-topright" transform="matrix(0,1,-1,0,1513,867)"/>
+  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-left" id="common-normal-right" transform="matrix(-1,0,0,1,646,0)"/>
+  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-topleft" id="common-normal-bottomright" transform="matrix(-1,0,0,-1,646,2380)"/>
+  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-left" id="common-normal-bottom" transform="matrix(0,-1,1,0,-867,1513)"/>
+  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-topleft" id="common-normal-bottomleft" transform="matrix(0,-1,1,0,-867,1513)"/>
+
+<g id="common-focused-left" transform="translate(-9,5)">
+</g>
+<g id="common-focused-topleft" transform="translate(-9,5)">
+</g>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-left" id="common-focused-top" transform="matrix(0,1,-1,0,1469,911)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-topleft" id="common-focused-topright" transform="matrix(0,1,-1,0,1469,911)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-left" id="common-focused-right" transform="matrix(-1,0,0,1,558,0)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-left" id="common-focused-bottom" transform="matrix(0,-1,1,0,-911,1469)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-topleft" id="common-focused-bottomleft" transform="matrix(0,-1,1,0,-911,1469)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-topleft" id="common-focused-bottomright" transform="matrix(-1,0,0,-1,558,2380)"/>
+</g>
+
+</svg>

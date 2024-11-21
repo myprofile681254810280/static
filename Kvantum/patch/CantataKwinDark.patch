@@ -1,0 +1,78 @@
+--- KvArcDarkCantataKwin/k	2019-08-31 11:52:30.371040672 +0800
++++ KvArcDarkCantataKwin/KvArcDarkCantataKwin.kvconfig	2019-08-31 11:49:44.465922668 +0800
+@@ -28,7 +28,7 @@
+ menubar_mouse_tracking=true
+ toolbutton_style=1
+ double_click=false
+-translucent_windows=false
++translucent_windows=true
+ blurring=false
+ popup_blurring=false
+ vertical_spin_indicators=false
+@@ -60,9 +60,9 @@
+ 
+ [GeneralColors]
+ window.color=#383c4a
+-base.color=#404552
+-alt.base.color=#3c434f
+-button.color=#414654
++base.color=#40455200
++alt.base.color=#3c434f00
++button.color=#41465480
+ light.color=#5f677f
+ mid.light.color=#313131
+ dark.color=black
+@@ -264,8 +264,8 @@
+ indicator.size=5
+ text.margin=0
+ frame=false
+-interior.element=menubar
+-frame.element=menubar
++interior.element=rect
++frame.element=rect
+ text.normal.color=#ffffffc8
+ text.focus.color=white
+ frame.bottom=0
+--- KvArcDarkCantataKwin/s	2019-08-31 11:52:30.374376213 +0800
++++ KvArcDarkCantataKwin/KvArcDarkCantataKwin.svg	2019-08-31 11:50:18.854115021 +0800
+@@ -1060,4 +1060,40 @@
+ <use width="100%" x="0" y="0" height="100%" id="scrollbarslider-pressed-right" xlink:href="#scrollbarslider-focused-right" transform="translate(37.502709,-7.055e-4)"/>
+ <use width="100%" x="0" y="0" height="100%" id="scrollbarslider-pressed-bottomright" xlink:href="#scrollbarslider-focused-topright" transform="matrix(1,0,0,-1,37.497291,2235.2499)"/>
+ <use width="100%" x="0" y="0" height="100%" id="scrollbarslider-pressed-bottomleft" xlink:href="#scrollbarslider-focused-topleft" transform="matrix(1,0,0,-1,37.497304,2235.25)"/>
++
++  <!-- 不透明的toolbar,需要和对应的decro 主题一起用 -->
++  <rect id="rect-normal" width="1.0" x="0" y="0" height="1.0" style="opacity:1.0;fill:url(#linearGradient-toolbar);fill-opacity:1;stroke:none"/>
++  <linearGradient id="linearGradient821">
++    <stop style="stop-color:#2F343F;stop-opacity:1.0;" offset="0.00"/>
++    <stop style="stop-color:#2F343F;stop-opacity:1.0;" offset="0.975"/>
++  </linearGradient>
++  <linearGradient x1="0" x2="0" y1="0.0" y2="1.0" xlink:href="#linearGradient821" id="linearGradient-toolbar"/>
++  <!--主窗口,在调节blur 亮度后,可以降低opacity-->
++  <rect id="window-normal" width="40" x="759" y="488.02875" height="40" style="opacity:0.5;fill:#000;fill-opacity:1;stroke:none"/>
++
++<!--cantata边框-->
++<g style="opacity:0.0;stroke:none">
++  <g style="stroke:none" id="common-normal-left" transform="translate(35,5)">
++  </g>
++  <g style="stroke:none" id="common-normal-topleft" transform="translate(35,5)">
++  </g>
++  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-left" id="common-normal-top" transform="matrix(0,1,-1,0,1513,867)"/>
++  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-topleft" id="common-normal-topright" transform="matrix(0,1,-1,0,1513,867)"/>
++  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-left" id="common-normal-right" transform="matrix(-1,0,0,1,646,0)"/>
++  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-topleft" id="common-normal-bottomright" transform="matrix(-1,0,0,-1,646,2380)"/>
++  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-left" id="common-normal-bottom" transform="matrix(0,-1,1,0,-867,1513)"/>
++  <use width="450" x="0" y="0" height="1230" xlink:href="#common-normal-topleft" id="common-normal-bottomleft" transform="matrix(0,-1,1,0,-867,1513)"/>
++
++<g id="common-focused-left" transform="translate(-9,5)">
++</g>
++<g id="common-focused-topleft" transform="translate(-9,5)">
++</g>
++<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-left" id="common-focused-top" transform="matrix(0,1,-1,0,1469,911)"/>
++<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-topleft" id="common-focused-topright" transform="matrix(0,1,-1,0,1469,911)"/>
++<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-left" id="common-focused-right" transform="matrix(-1,0,0,1,558,0)"/>
++<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-left" id="common-focused-bottom" transform="matrix(0,-1,1,0,-911,1469)"/>
++<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-topleft" id="common-focused-bottomleft" transform="matrix(0,-1,1,0,-911,1469)"/>
++<use width="100%" x="0" y="0" height="100%" xlink:href="#common-focused-topleft" id="common-focused-bottomright" transform="matrix(-1,0,0,-1,558,2380)"/>
++</g>
++
+ </svg>

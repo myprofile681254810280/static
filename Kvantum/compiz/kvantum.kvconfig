@@ -1,0 +1,16 @@
+[General]
+theme=KvArc2l
+
+[Applications]
+KvArc2l=goldendict,kate,okular
+KvArcDolphin=dolphin
+KvArcCantata=cantata
+KvArcTransmission=
+KvArcCantataBlack=
+Transparent=
+TransparentConfig=
+TransparentSvg=
+KvArc=
+KvGnome=
+KvOxygen=
+KvAmbience=

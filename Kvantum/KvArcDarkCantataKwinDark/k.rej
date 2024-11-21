@@ -1,0 +1,11 @@
+--- k	2019-08-31 11:52:30.371040672 +0800
++++ KvArcDarkCantataKwin.kvconfig	2019-08-31 11:49:44.465922668 +0800
+@@ -28,7 +28,7 @@
+ menubar_mouse_tracking=true
+ toolbutton_style=1
+ double_click=false
+-translucent_windows=false
++translucent_windows=true
+ blurring=false
+ popup_blurring=false
+ vertical_spin_indicators=false

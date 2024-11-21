@@ -1,0 +1,28 @@
+--- k	2019-08-30 11:06:46.550271295 +0800
++++ KvArcCantataKwin.kvconfig	2019-08-27 18:55:04.005056738 +0800
+@@ -59,9 +59,11 @@
+ 
+ [GeneralColors]
+ window.color=#f5f6f7
+-base.color=white
+-alt.base.color=#f8f8f8
+-button.color=#fbfbfc
++base.color=#00000000
++;关掉alt
++alt.base.color=#00F0F000
++;透明button,还要改svg
++button.color=#fbfbfc80
+ light.color=white
+ mid.light.color=#f0f0f0
+ dark.color=#c8c8c8
+@@ -264,8 +266,8 @@
+ indicator.size=5
+ text.margin=0
+ frame=false
+-interior.element=menubar
+-frame.element=menubar
++interior.element=rect
++frame.element=rect
+ text.normal.color=#000000c8
+ text.focus.color=black
+ frame.bottom=0
