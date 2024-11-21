@@ -1,0 +1,2 @@
+# static
+fonts icons rime
