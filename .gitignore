@@ -1,3 +1,8 @@
+rime/sync
+rime/user.yaml
+rime/installation.yaml
+*.userdb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
