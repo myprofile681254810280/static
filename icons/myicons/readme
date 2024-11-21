@@ -1,0 +1,31 @@
+这是专为plasmashell提供的版本
+plasma自己的右下角状态栏图标就是白色简笔图标，所以状态栏旁边的任务栏也适合搭配 白色简笔图标，搭配右下角黑色背景
+
+把aow的图标目录拉进来，加入到
+Directories=
+
+然后删掉plasma自带的
+Context=Applications
+实际上plasma自己也没提供多少applications，
+
+然后放入aow的applications，要改为
+Type=Fixed
+
+然后删掉
+KDE-Extensions=.svg
+否则似乎只有svg可以加载
+
+Inherits=hicolor
+对于icon混合来说，这个几乎是没用的，不要在意它，我们只能自己混合文件夹
+
+
+aow的clear目录只能复制过来吗？还是link？
+复制过来可以方便改动，不过或许可以新加一个自己改的
+Context=Applications
+在里面添加缺失的
+
+而breeze目录只能复制下来，然后修改里面的index.themes, 因为继承无效
+
+
+如果有图标缺失，去/usr/share/applications/中找，到底用了哪个图标
+如果没有applications，那大概就是进程名或者wm class
