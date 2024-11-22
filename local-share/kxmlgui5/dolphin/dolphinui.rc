@@ -99,6 +99,7 @@
    <Action name="closed_tabs"/>
   </Menu>
   <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
   <Menu alreadyVisited="1" name="tools" noMerge="1">
    <text translationDomain="kxmlgui6">&amp;Tools</text>
    <Action name="open_preferred_search_tool"/>
@@ -149,12 +150,12 @@
   <Action name="edit_undo"/>
   <Action name="show_filter_bar"/>
   <Action name="invert_selection"/>
+  <Spacer name="spacer_0"/>
   <Action name="show_places_panel"/>
   <Action name="show_preview"/>
   <Action name="show_in_groups"/>
   <Action name="icons"/>
   <Action name="details"/>
-  <Spacer name="spacer_0"/>
   <!--分割符-->
   <Action name="ascending"/>
   <Action name="descending"/>
