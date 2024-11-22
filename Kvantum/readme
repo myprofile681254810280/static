@@ -11,3 +11,7 @@ breeze无法开大阴影，因为开大阴影的时候，konsole和dolphin都会
 但这不是kv的问题，而是breeze的问题，换成不是breeze的aurorae deco theme，就可以了
 可是首先aurorae theme的阴影效果不如breeze,无法接受
 其次，breeze中可以设定窗口是否带标题栏等，而aurorae是没有这些复杂配置的
+
+更进一步的观察是，breeze似乎是圆角+阴影的，而blur效果是没有计算这些，所以把阴影部分也blur了
+不过blur在哪里关掉呢？
+以为是blur脚本或者kwin负责的，但是两处都找不到
