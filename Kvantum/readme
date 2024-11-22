@@ -15,3 +15,14 @@ breeze无法开大阴影，因为开大阴影的时候，konsole和dolphin都会
 更进一步的观察是，breeze似乎是圆角+阴影的，而blur效果是没有计算这些，所以把阴影部分也blur了
 不过blur在哪里关掉呢？
 以为是blur脚本或者kwin负责的，但是两处都找不到
+
+不过，从systemsetting中关掉blur effect后，黑边问题依然存在，说明这不仅仅是blur面积错误
+但是，这或许是kvantum的问题？
+在kdeglobal中关掉kvantum，打开konsole可以确认问题依然在，所以也不是kvantum的问题
+
+新开一个账户可以知道，只要在konsole中设置50%透明，就会看到角落的黑边，关掉breeze的外边框后就会变得更明显
+由于breeze之外是没有问题的，那么这个问题还是应该归结在breeze身上
+那么breeze的理想用法大概是必须要有边框的，但是有边框的效果还是非常差
+
+-------------------------
+这个问题只能忍受，因为breeze的功能更强，可以设置窗口规则，还能读取colors参数，而且维护性应该更好不会出奇怪的bug
