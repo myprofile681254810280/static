@@ -1,9 +1,11 @@
-ln -s ~/static/home/.icons ~/
+ROOT=~/static
 
-ln -s ~/static/local-share/fcitx5 ~/.local/share/
-ln -s ~/static/local-share/icons ~/.local/share/
-ln -s ~/static/local-share/fonts ~/.local/share/
-ln -s ~/static/local-share/color-schemes ~/.local/share/
+ln -s $ROOT/home/.icons                 ~/
 
-ln -s ~/static/config/Kvantum ~/.config/
-ln -s ~/static/config/kwinrulesrc ~/.config/
+ln -s $ROOT/local-share/fcitx5          ~/.local/share/
+ln -s $ROOT/local-share/icons           ~/.local/share/
+ln -s $ROOT/local-share/fonts           ~/.local/share/
+ln -s $ROOT/local-share/color-schemes   ~/.local/share/
+
+ln -s $ROOT/config/Kvantum              ~/.config/
+ln -s $ROOT/config/kwinrulesrc          ~/.config/
