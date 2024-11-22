@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	5
+#@/user_id	71f224e1-9313-42a9-8799-677332aeb3c7
+io 	io	c=2 d=1.9802 t=5
+iowa 	iowa	c=2 d=1.97516 t=5

@@ -1,0 +1,940 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin_cc
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	2060
+#@/user_id	71f224e1-9313-42a9-8799-677332aeb3c7
+a gen ting 	阿根廷	c=1 d=1 t=2060
+a se dun feng 	阿瑟顿峰	c=2 d=1.56748 t=2060
+a sen feng 	阿森峰	c=1 d=0.946405 t=2060
+a sen feng dian ji 	阿森峰點擊	c=1 d=0.99005 t=2060
+ai yin si tan 	愛因斯坦	c=0 d=0.0878095 t=2060
+ai yin si tan jie shi 	愛因斯坦解釋	c=1 d=0.882497 t=2060
+ai zheng 	癌症	c=1 d=0.99005 t=2060
+an 	按	c=1 d=0.970446 t=2060
+an zhuang 	安裝	c=4 d=3.89738 t=2060
+ao 	奧	c=0 d=0.0786628 t=2060
+ao wei er 	奧威爾	c=0 d=0.178558 t=2060
+ao wei er fo 	奧威爾佛	c=2 d=1.60107 t=2060
+ao wei er ji fen 	奧威爾積分	c=1 d=1 t=2060
+ba 	吧	c=1 d=1 t=2060
+ba 	把	c=5 d=3.01408 t=2060
+ba si 	巴斯	c=1 d=0.995012 t=2060
+bai se 	白色	c=4 d=3.05472 t=2060
+ban ben 	版本	c=1 d=0.562705 t=2060
+bao guo 	包裹	c=1 d=0.965605 t=2060
+bao jian pin 	保健品	c=1 d=0.687289 t=2060
+bao liu 	保留	c=2 d=1.77873 t=2060
+bao shui 	保稅	c=0 d=0.0980199 t=2060
+bao shui ji 	保稅及	c=1 d=0.985112 t=2060
+bei 	被	c=9 d=6.14451 t=2060
+bei jing 	北京	c=1 d=0.631284 t=2060
+bei jing 	背景	c=2 d=1.30716 t=2060
+bei lun 	北侖	c=1 d=0.479505 t=2060
+bei lun 	悖論	c=1 d=0.481909 t=2060
+bei ren wei 	被認爲	c=1 d=0.83527 t=2060
+ben shen 	本身	c=1 d=0.440432 t=2060
+ben xing xi qun 	本星系群	c=2 d=1.92168 t=2060
+bi 	筆	c=2 d=1.19845 t=2060
+bi er gai ci 	比爾蓋茨	c=2 d=1.96531 t=2060
+bi ji 	筆記	c=0 d=0.0980199 t=2060
+bi qi 	比起	c=1 d=0.895834 t=2060
+bi qi lai 	比起來	c=1 d=0.941765 t=2060
+bi ran 	必然	c=9 d=3.13001 t=2060
+bi ran de 	必然的	c=1 d=0.494109 t=2060
+bi ran xing 	必然性	c=3 d=1.24739 t=2060
+bi ran you 	必然有	c=0 d=0.0763379 t=2060
+bi ran you yi ge 	必然有一個	c=1 d=0.767206 t=2060
+bi ru 	比如	c=1 d=0.955997 t=2060
+bi ru shuo 	比如說	c=2 d=1.2193 t=2060
+bi xu yao 	必須要	c=2 d=1.20607 t=2060
+bian de 	變得	c=1 d=0.752014 t=2060
+bian kuang 	邊框	c=4 d=3.02221 t=2060
+biao da 	表達	c=0 d=0.0980199 t=2060
+biao da zhe 	表達者	c=1 d=0.985112 t=2060
+biao ti 	標題	c=1 d=0.951229 t=2060
+bing 	並	c=0 d=0.0532592 t=2060
+bing bu 	並不	c=0 d=0.0882497 t=2060
+bing bu ming que 	並不明確	c=1 d=0.88692 t=2060
+bing bu neng 	並不能	c=1 d=0.980199 t=2060
+bing bu shi 	並不是	c=1 d=0.97531 t=2060
+bing mei you ji hui 	並沒有機會	c=1 d=0.535261 t=2060
+bing qie 	並且	c=1 d=0.904837 t=2060
+bo fang qi 	播放器	c=1 d=1 t=2060
+bu cheng shu 	不成熟	c=1 d=0.955997 t=2060
+bu dai 	不帶	c=1 d=0.951229 t=2060
+bu deng shi 	不等式	c=4 d=3.60374 t=2060
+bu fen 	部分	c=0 d=0.0960789 t=2060
+bu guan shi 	不管是	c=1 d=0.522046 t=2060
+bu guo 	不過	c=4 d=2.8348 t=2060
+bu hui 	不會	c=2 d=1.50977 t=2060
+bu jin jin 	不僅僅	c=0 d=0.0955997 t=2060
+bu ke yi 	不可以	c=0 d=0.0687289 t=2060
+bu ke yi que fa 	不可以缺乏	c=1 d=0.690734 t=2060
+bu li jie 	不理解	c=1 d=0.985112 t=2060
+bu ru 	不如	c=1 d=0.904837 t=2060
+bu shi 	不是	c=5 d=3.50225 t=2060
+bu tai 	不太	c=1 d=0.860708 t=2060
+bu ting ming 	不聽命	c=6 d=4.07721 t=2060
+bu tong 	不同	c=4 d=2.10082 t=2060
+bu tong yi 	不統一	c=1 d=0.900325 t=2060
+bu wei 	部位	c=1 d=0.99005 t=2060
+bu xiang 	不想	c=1 d=0.878095 t=2060
+bu xing le 	不行了	c=1 d=0.814647 t=2060
+bu yao 	不要	c=0 d=0.0763379 t=2060
+bu yao zai yi 	不要在意	c=1 d=0.767206 t=2060
+bu yi zhi 	不一致	c=1 d=0.900325 t=2060
+bu ying gai 	不應該	c=2 d=1.05849 t=2060
+bu yong 	不用	c=1 d=0.97531 t=2060
+bu zheng 	不爭	c=1 d=0.400517 t=2060
+bu zheng 	補正	c=7 d=2.7671 t=2060
+bu zhi 	不止	c=0 d=0.0384812 t=2060
+bu zhi dao 	不知道	c=3 d=2.10768 t=2060
+bu zhi yi bian 	不止一遍	c=1 d=0.386741 t=2060
+bu zhou 	步驟	c=1 d=0.918512 t=2060
+cai 	才	c=1 d=0.927743 t=2060
+cai dan 	菜單	c=1 d=0.843665 t=2060
+cai neng 	才能	c=1 d=0.965605 t=2060
+cai you 	纔有	c=1 d=0.852144 t=2060
+can shu 	參數	c=1 d=0.960789 t=2060
+cao cao 	曹操	c=3 d=1.83177 t=2060
+cao zuo 	操作	c=1 d=0.433874 t=2060
+ce liang 	測量	c=7 d=4.36258 t=2060
+cha 	差	c=1 d=0.891366 t=2060
+cha xun 	查詢	c=1 d=0.965605 t=2060
+chan sheng 	產生	c=2 d=1.13507 t=2060
+chan sheng le 	產生了	c=1 d=0.694197 t=2060
+chang shi 	嘗試	c=3 d=1.75873 t=2060
+chao chu 	超出	c=2 d=0.974682 t=2060
+chao guang su 	超光速	c=1 d=0.843665 t=2060
+cheng 	成	c=1 d=0.970446 t=2060
+cheng shu 	稱述	c=2 d=1.06261 t=2060
+cheng xu 	程序	c=5 d=2.36173 t=2060
+chi dao 	持刀	c=1 d=0.99005 t=2060
+chong tu 	衝突	c=2 d=1.39338 t=2060
+chong zhuang 	重裝	c=1 d=0.941765 t=2060
+chou qu 	抽取	c=1 d=0.869358 t=2060
+chu 	出	c=2 d=1.567 t=2060
+chu fa 	出發	c=4 d=2.11882 t=2060
+chu le 	除了	c=1 d=0.965605 t=2060
+chu li hao 	處理好	c=1 d=0.937067 t=2060
+chu xian 	出現	c=1 d=0.810584 t=2060
+chu yu 	處於	c=1 d=0.878095 t=2060
+chu zi 	出自	c=1 d=0.995012 t=2060
+chuan bo 	傳播	c=1 d=0.960789 t=2060
+chuan pu 	川普	c=1 d=0.99005 t=2060
+chuang kou 	窗口	c=4 d=2.39497 t=2060
+chun 	醇	c=1 d=0.694197 t=2060
+chun cui 	純粹	c=1 d=0.878095 t=2060
+chuo cuo 	戳錯	c=1 d=0.379083 t=2060
+ci wai 	此外	c=1 d=0.932394 t=2060
+ci yan 	刺眼	c=1 d=0.913931 t=2060
+cong 	從	c=6 d=2.44286 t=2060
+cong yi ge 	從一個	c=1 d=0.470011 t=2060
+cui mian 	催眠	c=1 d=0.995012 t=2060
+cun fang 	存放	c=2 d=1.92275 t=2060
+cun zai 	存在	c=3 d=1.79019 t=2060
+cun zai yu 	存在於	c=1 d=0.463013 t=2060
+cuo de 	錯的	c=0 d=0.0369723 t=2060
+cuo le 	錯了	c=2 d=1.50783 t=2060
+cuo wu 	錯誤	c=9 d=3.87333 t=2060
+cuo wu jie dian 	錯誤節點	c=1 d=0.666977 t=2060
+da 	大	c=1 d=0.853578 t=2060
+da an 	答案	c=2 d=1.80086 t=2060
+da bu dao 	達不到	c=1 d=0.839457 t=2060
+da dao 	達到	c=7 d=4.58659 t=2060
+da gai 	大概	c=2 d=1.48904 t=2060
+da kai 	打開	c=2 d=1.81241 t=2060
+da liang 	大量	c=1 d=0.951229 t=2060
+da pei 	搭配	c=3 d=2.08065 t=2060
+da suan 	打算	c=1 d=0.704688 t=2060
+da yin ying 	大陰影	c=1 d=0.790571 t=2060
+da zhi 	大致	c=1 d=0.514274 t=2060
+da zhong 	打中	c=2 d=1.39553 t=2060
+dai 	帶	c=1 d=0.946485 t=2060
+dai ma 	代碼	c=1 d=0.965605 t=2060
+dan shi 	但是	c=18 d=6.39213 t=2060
+dan yao ku 	彈藥庫	c=4 d=2.30285 t=2060
+dan yi 	單一	c=1 d=0.955997 t=2060
+dan zhe 	但這	c=1 d=0.831104 t=2060
+dang ni 	當你	c=4 d=1.9509 t=2060
+dang qian 	當前	c=2 d=1.53486 t=2060
+dang yi ge 	當一個	c=1 d=0.529935 t=2060
+dao 	到	c=5 d=2.16199 t=2060
+dao di 	到底	c=1 d=0.927743 t=2060
+dao le 	到了	c=1 d=0.802519 t=2060
+dao zhi 	導致	c=1 d=0.687289 t=2060
+de 	的	c=181 d=24.9971 t=2060
+de chu 	得出	c=2 d=1.52332 t=2060
+de dao 	得到	c=1 d=0.694197 t=2060
+de guo 	德國	c=1 d=0.701173 t=2060
+deng 	等	c=3 d=2.33579 t=2060
+deng lu 	登錄	c=1 d=0.99005 t=2060
+deng tong 	等同	c=1 d=0.524663 t=2060
+di er ge 	第二個	c=1 d=0.798516 t=2060
+di er tiao 	第二條	c=0 d=0.0960789 t=2060
+di er tiao xian 	第二條線	c=1 d=0.965605 t=2060
+di shu dan kang 	地舒单抗	c=2 d=1.98506 t=2060
+di yi 	第一	c=1 d=0.794534 t=2060
+di yi zhong 	第一種	c=0 d=0.0479505 t=2060
+dian 	點	c=2 d=1.8509 t=2060
+dian ji 	點擊	c=0 d=0.0985112 t=2060
+dian xing 	典型	c=2 d=1.12547 t=2060
+diao 	掉	c=1 d=0.786628 t=2060
+diao yong 	調用	c=2 d=1.81374 t=2060
+ding 	丁	c=1 d=0.995012 t=2060
+ding yi 	定義	c=3 d=2.02195 t=2060
+dong fang 	東方	c=1 d=0.856415 t=2060
+dong lai 	東來	c=1 d=0.946485 t=2060
+dou 	都	c=3 d=2.61822 t=2060
+dou bu 	都不	c=0 d=0.0852144 t=2060
+dou bu chong tu 	都不衝突	c=1 d=0.856415 t=2060
+dou hui 	都會	c=1 d=0.806541 t=2060
+dou ke yi 	都可以	c=1 d=0.923116 t=2060
+dou mei you 	都沒有	c=1 d=0.843665 t=2060
+dou nai 	豆奶	c=1 d=0.946485 t=2060
+dou shi 	都是	c=1 d=0.621885 t=2060
+dou you 	都有	c=1 d=0.99005 t=2060
+dou zai 	都在	c=1 d=0.904837 t=2060
+du 	度	c=3 d=1.39075 t=2060
+du li 	獨立	c=2 d=1.4815 t=2060
+du qu 	讀取	c=1 d=0.955997 t=2060
+dui 	對	c=9 d=4.32284 t=2060
+dui bi 	對比	c=1 d=0.97531 t=2060
+dui ci 	對此	c=1 d=0.574072 t=2060
+dui hua 	對話	c=1 d=0.578924 t=2060
+dui hua zhe 	對話者	c=3 d=2.25897 t=2060
+dui ni 	對你	c=0 d=0.0965605 t=2060
+dui ni lai shuo 	對你來說	c=1 d=0.970446 t=2060
+dui qi ta ren 	對其他人	c=1 d=0.83527 t=2060
+dui wo men 	對我們	c=1 d=0.814647 t=2060
+dui ying 	對應	c=1 d=0.904837 t=2060
+dui yu 	對於	c=3 d=1.18855 t=2060
+duo shao 	多少	c=1 d=0.690734 t=2060
+e 	額	c=1 d=0.918512 t=2060
+e wai 	額外	c=0 d=0.0965605 t=2060
+er 	二	c=4 d=3.48236 t=2060
+er 	而	c=13 d=4.98544 t=2060
+er bu 	而不	c=0 d=0.0923116 t=2060
+er bu xu yao 	而不需要	c=1 d=0.927743 t=2060
+er dui yu 	而對於	c=1 d=0.923116 t=2060
+er hou 	而後	c=1 d=0.574072 t=2060
+er jie 	二階	c=3 d=2.63367 t=2060
+er qie 	而且	c=1 d=0.965605 t=2060
+er ru guo 	而如果	c=1 d=0.45612 t=2060
+er shi 	而是	c=1 d=0.847894 t=2060
+fa guo 	法國	c=2 d=1.6021 t=2060
+fa she 	發射	c=1 d=0.657047 t=2060
+fa wa er 	法瓦尔	c=4 d=3.46548 t=2060
+fa yang 	發癢	c=1 d=0.951229 t=2060
+fan ji ao 	范吉奥	c=0 d=0.0965605 t=2060
+fan ji ao wan er ji an fu e wai 	范吉奥玩兒吉安府額外	c=1 d=0.970446 t=2060
+fang bian 	方便	c=2 d=1.1159 t=2060
+fang fa 	方法	c=14 d=4.77078 t=2060
+fang ru 	放入	c=1 d=0.697676 t=2060
+fang shi 	方式	c=2 d=0.965605 t=2060
+fei chang 	非常	c=1 d=0.88692 t=2060
+fen si 	粉絲	c=1 d=1 t=2060
+feng ge 	風格	c=1 d=0.891366 t=2060
+fo 	佛	c=2 d=1.62118 t=2060
+fou ze 	否則	c=1 d=0.718924 t=2060
+fu za 	複雜	c=2 d=1.6471 t=2060
+fu ze 	負責	c=1 d=0.97531 t=2060
+fu zhi 	複製	c=5 d=3.546 t=2060
+fu zhi dao 	複製到	c=1 d=0.882497 t=2060
+fu zuo yong 	副作用	c=1 d=0.99005 t=2060
+gai bian 	改變	c=1 d=0.606531 t=2060
+gai dong 	改動	c=1 d=0.88692 t=2060
+gai dong shi 	改動是	c=1 d=0.904837 t=2060
+gai nian 	概念	c=2 d=0.699776 t=2060
+gai wei 	改爲	c=1 d=0.70822 t=2060
+gan jue 	感覺	c=2 d=0.937067 t=2060
+gan ran 	感染	c=1 d=0.955997 t=2060
+gan shou dao 	感受到	c=1 d=0.900325 t=2060
+gao 	高	c=2 d=1.86873 t=2060
+gao chao 	高潮	c=0 d=0.0927743 t=2060
+gao feng 	高峯	c=1 d=1 t=2060
+gao mi du 	高密度	c=1 d=0.960789 t=2060
+gao zhi 	告知	c=1 d=0.429557 t=2060
+ge 	個	c=3 d=1.61965 t=2060
+ge 	哥	c=2 d=1.83712 t=2060
+ge ben ha gen 	哥本哈根	c=1 d=0.985112 t=2060
+ge ren 	個人	c=1 d=0.955997 t=2060
+ge shi 	格式	c=2 d=1.98511 t=2060
+gei 	給	c=2 d=1.72564 t=2060
+gen zong 	跟蹤	c=1 d=0.597501 t=2060
+geng 	更	c=2 d=1.32414 t=2060
+geng duo 	更多	c=1 d=0.904837 t=2060
+geng hao 	更好	c=1 d=0.980199 t=2060
+geng jin yi bu 	更進一步	c=1 d=0.88692 t=2060
+geng qiang 	更強	c=1 d=0.927743 t=2060
+geng xiang 	更像	c=1 d=0.99005 t=2060
+gong ju 	工具	c=1 d=0.390628 t=2060
+gong neng 	功能	c=2 d=1.56074 t=2060
+gong si 	公司	c=0 d=0.099005 t=2060
+gou cheng 	構成	c=2 d=1.0435 t=2060
+gu mi du 	骨密度	c=1 d=0.955997 t=2060
+gu shi 	故事	c=2 d=1.9459 t=2060
+gu zhi shu song 	骨質疏鬆	c=6 d=4.83791 t=2060
+guan cha 	觀察	c=1 d=0.895834 t=2060
+guan diao 	關掉	c=6 d=3.57362 t=2060
+guan li 	管理	c=1 d=1 t=2060
+guang nian 	光年	c=1 d=1 t=2060
+gui jie 	歸結	c=2 d=1.45705 t=2060
+gui ze 	規則	c=5 d=2.54975 t=2060
+guo 	國	c=1 d=0.995012 t=2060
+guo cheng 	過程	c=1 d=0.474734 t=2060
+guo lai 	過來	c=1 d=0.959358 t=2060
+guo lai ma 	過來嗎	c=1 d=0.860708 t=2060
+guo yu 	過於	c=1 d=0.860708 t=2060
+hai 	還	c=1 d=1.03906 t=2060
+hai hui you 	還會有	c=2 d=1.77842 t=2060
+hai ke yi yong 	還可以用	c=1 d=0.923116 t=2060
+hai neng 	還能	c=1 d=0.951229 t=2060
+hai sen bao 	海森堡	c=6 d=5.01659 t=2060
+hai shi 	還是	c=7 d=3.43846 t=2060
+hai you 	還有	c=1 d=0.965605 t=2060
+hai zhan 	海戰	c=2 d=1.99005 t=2060
+hao 	好	c=1 d=0.995012 t=2060
+hao xiang 	好像	c=1 d=0.382893 t=2060
+he 	和	c=18 d=6.49169 t=2060
+he bing 	合併	c=1 d=0.900325 t=2060
+he he 	呵呵	c=2 d=1.91678 t=2060
+hei 	黑	c=3 d=2.02456 t=2060
+hei bian 	黑邊	c=2 d=1.3606 t=2060
+hei se 	黑色	c=1 d=0.628135 t=2060
+hen 	很	c=1 d=0.909373 t=2060
+hen duo 	很多	c=1 d=1.0013 t=2060
+hen duo you xi 	很多遊戲	c=1 d=0.970446 t=2060
+hen kuai 	很快	c=1 d=0.860708 t=2060
+hong meng 	鴻蒙	c=1 d=0.995012 t=2060
+hong yi 	紅移	c=1 d=0.985112 t=2060
+hou 	後	c=2 d=1.42405 t=2060
+hou yi zheng 	後遺症	c=1 d=1.07789 t=2060
+hou yi zheng ne ge 	後遺症呢個	c=1 d=0.985112 t=2060
+hua 	化	c=1 d=0.690734 t=2060
+hua 	畫	c=1 d=0.960789 t=2060
+hua chu 	畫出	c=1 d=0.904837 t=2060
+hua shi 	花式	c=1 d=0.843665 t=2060
+hua tu 	畫圖	c=1 d=0.38868 t=2060
+huan cheng 	換成	c=1 d=0.860708 t=2060
+huan shi jie 	环世界	c=1 d=1 t=2060
+huang duan zi 	黄段子	c=1 d=0.369723 t=2060
+hui 	會	c=9 d=3.28252 t=2060
+hui da 	回答	c=4 d=1.91619 t=2060
+hui de dao 	會得到	c=1 d=0.579842 t=2060
+hui yi 	回憶	c=1 d=0.449329 t=2060
+hui zai 	會在	c=1 d=0.631284 t=2060
+hun he 	混合	c=3 d=2.02811 t=2060
+huo 	或	c=1 d=0.562705 t=2060
+huo de 	獲得	c=4 d=2.09159 t=2060
+huo hu 	火狐	c=1 d=0.946485 t=2060
+huo shi 	或是	c=2 d=1.37446 t=2060
+huo xu 	或許	c=6 d=2.25842 t=2060
+huo zhe 	或者	c=7 d=3.49717 t=2060
+ji 	及	c=0 d=0.0980199 t=2060
+ji ai wang 	蓟哀王	c=1 d=0.946485 t=2060
+ji an fu 	吉安府	c=0 d=0.0965605 t=2060
+ji ben 	基本	c=1 d=0.522046 t=2060
+ji cheng 	繼承	c=2 d=1.39753 t=2060
+ji cheng 	集成	c=1 d=0.767206 t=2060
+ji de 	記得	c=1 d=0.543351 t=2060
+ji du 	基督	c=1 d=0.995012 t=2060
+ji fen 	積分	c=1 d=0.964792 t=2060
+ji fen ao 	積分奧	c=1 d=0.790571 t=2060
+ji hu 	幾乎	c=3 d=1.77698 t=2060
+ji jian hua 	极简化	c=1 d=0.995012 t=2060
+ji lu 	記錄	c=1 d=0.51401 t=2060
+ji lu le 	記錄了	c=1 d=0.489192 t=2060
+ji o e 	及哦額	c=1 d=0.771052 t=2060
+ji shi 	即使	c=1 d=0.923116 t=2060
+ji shi gan 	既視感	c=1 d=0.380983 t=2060
+ji shu 	技術	c=0 d=0.099005 t=2060
+ji suan 	計算	c=1 d=0.946485 t=2060
+ji xian 	極限	c=1 d=0.965605 t=2060
+ji yi 	記憶	c=1 d=0.377192 t=2060
+ji yu 	基於	c=3 d=2.11572 t=2060
+ji zhi 	機制	c=1 d=1 t=2060
+ji zhong 	擊中	c=1 d=0.71177 t=2060
+jia ding 	假定	c=1 d=0.735887 t=2060
+jia ding wei 	假定爲	c=1 d=0.923116 t=2060
+jia ru 	加入	c=2 d=1.60653 t=2060
+jia she 	假設	c=2 d=0.935902 t=2060
+jia she 	架設	c=1 d=1 t=2060
+jia zai 	加載	c=1 d=0.733447 t=2060
+jian dan 	簡單	c=1 d=0.99005 t=2060
+jian jie 	間接	c=1 d=0.818731 t=2060
+jian li 	建立	c=2 d=1.67584 t=2060
+jiang de 	講的	c=1 d=0.941765 t=2060
+jiao 	叫	c=0 d=0.0794534 t=2060
+jiao ben 	腳本	c=1 d=0.965605 t=2060
+jiao cheng 	教程	c=1 d=0.960789 t=2060
+jiao du 	角度	c=3 d=1.20223 t=2060
+jiao gei 	交給	c=1 d=1 t=2060
+jiao luo 	角落	c=1 d=0.718924 t=2060
+jiao wo 	叫我	c=0 d=0.0798516 t=2060
+jiao wo er 	叫我而	c=2 d=1.79453 t=2060
+jiao wo er fu 	叫沃爾夫	c=1 d=0.798516 t=2060
+jie dian 	節點	c=2 d=1.12074 t=2060
+jie dian gai nian 	節點概念	c=1 d=0.438235 t=2060
+jie guo 	結果	c=2 d=1.2507 t=2060
+jie jin yu 	接近於	c=1 d=0.565525 t=2060
+jie lun 	結論	c=2 d=1.24224 t=2060
+jie shi 	解釋	c=0 d=0.0878095 t=2060
+jie shou 	接受	c=1 d=0.913931 t=2060
+jie wei 	結尾	c=0 d=0.0927743 t=2060
+jin cheng 	進程	c=1 d=0.97531 t=2060
+jin er 	進而	c=2 d=1.05333 t=2060
+jin xing 	進行	c=1 d=0.463013 t=2060
+jing dian 	經典	c=3 d=1.71427 t=2060
+jing du 	精度	c=1 d=0.56836 t=2060
+jiu 	就	c=2 d=1.20454 t=2060
+jiu ban 	舊版	c=1 d=0.913931 t=2060
+jiu hao 	就好	c=1 d=0.918512 t=2060
+jiu hui 	就會	c=5 d=2.29269 t=2060
+jiu ke yi 	就可以	c=3 d=1.93395 t=2060
+jiu shi 	就是	c=5 d=2.03482 t=2060
+ju xian 	侷限	c=0 d=0.0831104 t=2060
+ju xian le 	侷限了	c=1 d=0.83527 t=2060
+jue de 	覺得	c=1 d=0.647265 t=2060
+jue ding 	決定	c=1 d=0.591555 t=2060
+jue dui 	絕對	c=3 d=1.20605 t=2060
+kai 	開	c=3 d=2.18268 t=2060
+kai qi 	開啓	c=1 d=0.97531 t=2060
+kan 	看	c=1 d=0.955997 t=2060
+kan dao 	看到	c=1 d=0.715338 t=2060
+kao lv 	考慮	c=1 d=0.923116 t=2060
+ke guan 	客觀	c=1 d=0.519442 t=2060
+ke neng 	可能	c=2 d=1.30118 t=2060
+ke pu 	科普	c=1 d=1 t=2060
+ke shi 	可是	c=2 d=1.57323 t=2060
+ke tang 	課堂	c=0 d=0.0980199 t=2060
+ke tang bi ji 	課堂筆記	c=1 d=0.985112 t=2060
+ke xing 	可行	c=1 d=0.865022 t=2060
+ke yi 	可以	c=22 d=6.07002 t=2060
+ke yi shi 	可以使	c=1 d=0.852144 t=2060
+ke yi shuo shi 	可以說是	c=1 d=0.737123 t=2060
+ke yi yong 	可以用	c=0 d=0.0918512 t=2060
+ke yong 	可用	c=1 d=0.806541 t=2060
+ken ding 	肯定	c=1 d=0.70822 t=2060
+ku 	庫	c=1 d=0.980199 t=2060
+kuai jie jian 	快捷鍵	c=1 d=0.941765 t=2060
+kuang jia 	框架	c=1 d=0.519442 t=2060
+la jin lai 	拉進來	c=1 d=0.650509 t=2060
+lai 	來	c=2 d=1.1231 t=2060
+lai le 	來了	c=0 d=0.0909373 t=2060
+lai le yi hou 	來了以後	c=1 d=0.913931 t=2060
+lai shuo 	來說	c=3 d=1.4416 t=2060
+lai yong 	來用	c=1 d=0.995012 t=2060
+lan 	欄	c=1 d=0.955997 t=2060
+lan jie 	攔截	c=0 d=0.0927743 t=2060
+lan jie diao 	攔截掉	c=1 d=0.932394 t=2060
+lao shi 	老師	c=1 d=0.366045 t=2060
+le 	了	c=23 d=6.37973 t=2060
+lei xing 	類型	c=1 d=0.540641 t=2060
+li 	力	c=1 d=0.995012 t=2060
+li dang 	理當	c=1 d=0.88692 t=2060
+li jie 	理解	c=1 d=0.88692 t=2060
+li mian 	裏面	c=3 d=2.42222 t=2060
+li xiang 	理想	c=1 d=0.826959 t=2060
+li xing 	理性	c=1 d=0.995012 t=2060
+li zi 	粒子	c=6 d=3.94366 t=2060
+lian 	連	c=2 d=1.83115 t=2060
+lian jie 	連接	c=1 d=0.486752 t=2060
+lian qi lai 	連起來	c=1 d=0.946485 t=2060
+liang chu 	兩處	c=1 d=0.99005 t=2060
+liang ci 	兩次	c=1 d=0.546074 t=2060
+liang ge 	兩個	c=1 d=0.798516 t=2060
+liang ge ren 	兩個人	c=1 d=0.546074 t=2060
+liang zhe 	兩者	c=0 d=0.173039 t=2060
+liang zhong 	兩種	c=1 d=0.806541 t=2060
+liang zi 	量子	c=3 d=1.77647 t=2060
+liang zi li xue 	量子力學	c=1 d=0.951229 t=2060
+lie shi 	劣勢	c=1 d=0.856415 t=2060
+lin 	磷	c=1 d=0.951229 t=2060
+lin suan yan 	磷酸鹽	c=4 d=3.69157 t=2060
+ling wai 	另外	c=1 d=0.97531 t=2060
+ling yi ge 	另一個	c=3 d=1.78714 t=2060
+liu xia 	留下	c=1 d=0.484325 t=2060
+lu jing 	路徑	c=2 d=0.996524 t=2060
+ma 	嗎	c=1 d=0.909373 t=2060
+ma fan 	麻煩	c=1 d=0.955997 t=2060
+man zu 	滿足	c=2 d=1.44281 t=2060
+mei 	沒	c=1 d=0.865022 t=2060
+mei ji 	每集	c=0 d=0.0369723 t=2060
+mei ji cuo de 	每集錯的	c=1 d=0.371577 t=2060
+mei yong 	沒用	c=1 d=0.748264 t=2060
+mei you 	沒有	c=6 d=3.50768 t=2060
+mei you ji hui 	沒有機會	c=0 d=0.0532592 t=2060
+mi lai 	米莱	c=1 d=0.99005 t=2060
+mian dui 	面對	c=1 d=0.606531 t=2060
+mian ji 	面積	c=1 d=0.970446 t=2060
+miao shu 	描述	c=1 d=0.496585 t=2060
+ming 	名	c=1 d=0.980199 t=2060
+ming cheng 	名稱	c=1 d=0.778801 t=2060
+ming ling 	命令	c=1 d=0.65377 t=2060
+ming ling hang 	命令行	c=1 d=0.955997 t=2060
+ming que 	明確	c=1 d=0.691864 t=2060
+ming xian 	明顯	c=2 d=1.31114 t=2060
+ming zi 	明子	c=1 d=0.937067 t=2060
+mo hu 	模糊	c=0 d=0.0527292 t=2060
+mo kuai 	模塊	c=2 d=1.60506 t=2060
+mou chu 	某處	c=1 d=0.472367 t=2060
+mou ge 	某個	c=2 d=1.23832 t=2060
+mu biao 	目標	c=11 d=4.93314 t=2060
+mu lu 	目錄	c=6 d=3.87889 t=2060
+na 	那	c=1 d=1.03789 t=2060
+na fa 	那發	c=1 d=0.782705 t=2060
+na ge 	哪個	c=1 d=0.941765 t=2060
+na ge 	那個	c=1 d=0.918512 t=2060
+na hui 	那會	c=1 d=0.97531 t=2060
+na li 	哪裏	c=1 d=0.99005 t=2060
+na me 	那麼	c=10 d=4.20093 t=2060
+na shi 	那是	c=1 d=0.740818 t=2060
+nan yi 	難以	c=1 d=0.878095 t=2060
+nao xi bao 	腦細胞	c=1 d=0.97531 t=2060
+nao zi 	腦子	c=1 d=0.955997 t=2060
+ne 	呢	c=1 d=1 t=2060
+ne ge 	呢個	c=0 d=0.0980199 t=2060
+neng 	能	c=3 d=1.98467 t=2060
+neng zhao dao 	能找到	c=1 d=0.865022 t=2060
+ni 	你	c=12 d=5.00398 t=2060
+ni de 	你的	c=1 d=0.927743 t=2060
+ni dui 	你對	c=0 d=0.0895834 t=2060
+ni dui zi ji 	你對自己	c=1 d=0.900325 t=2060
+ni ha 	你哈	c=1 d=0.965605 t=2060
+ni hui 	你會	c=1 d=0.733447 t=2060
+ni huo de 	你獲得	c=1 d=0.65377 t=2060
+ni jiu 	你就	c=1 d=0.404542 t=2060
+ni jiu hui 	你就會	c=0 d=0.071177 t=2060
+ni jiu hui qu zuo 	你就會去做	c=1 d=0.715338 t=2060
+ni jiu yao 	你就要	c=1 d=0.790571 t=2060
+ni shi 	你是	c=1 d=0.99005 t=2060
+ni xi wang 	你希望	c=1 d=0.932394 t=2060
+ni xiang xin 	你相信	c=1 d=0.618783 t=2060
+ni yao 	你要	c=2 d=0.840945 t=2060
+ni zai 	你在	c=1 d=0.860708 t=2060
+ni zhi dao 	你知道	c=1 d=0.67032 t=2060
+ning ju 	凝聚	c=1 d=0.965605 t=2060
+o 	哦	c=2 d=1.71394 t=2060
+o o o 	哦哦哦	c=1 d=0.782705 t=2060
+ou ran 	偶然	c=10 d=5.63734 t=2060
+ou ran huo zhe 	偶然或者	c=1 d=0.718924 t=2060
+ou ran xing 	偶然性	c=3 d=1.24838 t=2060
+pai 	拍	c=1 d=0.965605 t=2060
+pan duan 	判斷	c=4 d=3.09346 t=2060
+pang 	胖	c=1 d=0.941765 t=2060
+pang bian 	旁邊	c=1 d=0.594521 t=2060
+pang da 	龐大	c=1 d=0.882497 t=2060
+pang dong lai 	胖东来	c=2 d=1.98506 t=2060
+pao dan 	炮彈	c=5 d=3.49891 t=2060
+pao tuan 	跑团	c=1 d=1 t=2060
+pei zhi 	配置	c=3 d=2.37428 t=2060
+pian gao 	偏高	c=2 d=1.92644 t=2060
+ping ban 	平板	c=1 d=0.99005 t=2060
+ping bi 	屏蔽	c=1 d=0.960789 t=2060
+ping pan 	評判	c=1 d=0.960789 t=2060
+qi 	其	c=1 d=0.99005 t=2060
+qi ci 	其次	c=1 d=0.918512 t=2060
+qi dong le 	启动了	c=1 d=0.946485 t=2060
+qi guai 	奇怪	c=1 d=0.995012 t=2060
+qi ma 	起碼	c=1 d=0.83527 t=2060
+qi shi 	其實	c=2 d=1.42502 t=2060
+qi ta 	其他	c=3 d=2.34143 t=2060
+qi ta ren 	其他人	c=1 d=0.943818 t=2060
+qian 	千	c=1 d=0.932394 t=2060
+qian ti 	前提	c=2 d=1.01426 t=2060
+qian ti tiao jian 	前提條件	c=1 d=0.733447 t=2060
+qian yi 	千億	c=1 d=0.970446 t=2060
+qiang zhi 	強制	c=1 d=0.818731 t=2060
+qing 	清	c=1 d=0.985112 t=2060
+qing kuang 	情況	c=1 d=0.484325 t=2060
+qing yong 	請用	c=1 d=0.900325 t=2060
+qing zhi 	清之	c=1 d=1 t=2060
+qu 	去	c=6 d=3.36939 t=2060
+qu jue yu 	取決於	c=1 d=0.980199 t=2060
+qu xian 	曲線	c=4 d=3.35589 t=2060
+qu zuo 	去做	c=0 d=0.071177 t=2060
+quan xian 	權限	c=1 d=0.546074 t=2060
+quan zhi 	全知	c=1 d=0.481909 t=2060
+que 	卻	c=1 d=0.839457 t=2060
+que fa 	缺乏	c=0 d=0.0687289 t=2060
+que ren 	確認	c=1 d=0.965605 t=2060
+que shi 	確實	c=1 d=0.479505 t=2060
+que shi 	缺失	c=2 d=1.74464 t=2060
+ran hou 	然後	c=12 d=5.05384 t=2060
+rang ni 	讓你	c=1 d=0.600496 t=2060
+ren 	人	c=1 d=0.532592 t=2060
+ren he 	任何	c=1 d=0.856415 t=2060
+ren lei 	人類	c=1 d=0.873716 t=2060
+ren shou 	忍受	c=1 d=0.909373 t=2060
+ren wu lan 	任務欄	c=3 d=2.11374 t=2060
+ren zhi 	認知	c=17 d=10.2694 t=2060
+ren zhi dian 	認知點	c=1 d=0.778801 t=2060
+ren zhuang 	人裝	c=1 d=0.909373 t=2060
+ri qi 	日期	c=1 d=0.891366 t=2060
+ru ci 	如此	c=4 d=2.02582 t=2060
+ru guo 	如果	c=9 d=4.90295 t=2060
+ru he 	如何	c=1 d=0.937067 t=2060
+ru xian ai 	乳腺癌	c=1 d=0.99005 t=2060
+sa dun feng 	萨顿峰	c=2 d=1.52295 t=2060
+san ge 	三個	c=2 d=1.80086 t=2060
+se 	色	c=0 d=0.0831104 t=2060
+se cai 	色彩	c=1 d=0.88692 t=2060
+shan 	閃	c=4 d=2.70914 t=2060
+shan chu 	刪除	c=1 d=0.932394 t=2060
+shan diao 	刪掉	c=2 d=1.38231 t=2060
+shan e 	善惡	c=1 d=0.514274 t=2060
+shang men 	上門	c=1 d=0.995012 t=2060
+shang mian 	上面	c=5 d=1.39996 t=2060
+shang mian liang zhe 	上面兩者	c=1 d=0.852144 t=2060
+she chu 	射出	c=2 d=1.21756 t=2060
+she ding 	設定	c=4 d=2.70668 t=2060
+she ji 	設計	c=4 d=3.82067 t=2060
+she zhi 	設置	c=3 d=2.1638 t=2060
+she zhong 	射中	c=1 d=0.895834 t=2060
+shen 	腎	c=6 d=5.37653 t=2060
+shen gong neng 	腎功能	c=2 d=1.87883 t=2060
+shen jing 	神經	c=1 d=0.980199 t=2060
+shen me 	什麼	c=4 d=2.65934 t=2060
+shen shang 	身上	c=1 d=0.814647 t=2060
+shen xing 	神性	c=1 d=1 t=2060
+shen zhi 	甚至	c=1 d=0.970446 t=2060
+sheng lve 	省略	c=1 d=0.927743 t=2060
+shi 	是	c=61 d=14.0758 t=2060
+shi bai 	失敗	c=2 d=1.64266 t=2060
+shi bie 	識別	c=3 d=2.25899 t=2060
+shi de 	使得	c=1 d=0.543351 t=2060
+shi fou 	是否	c=8 d=4.558 t=2060
+shi he 	適合	c=1 d=0.606531 t=2060
+shi hou 	時候	c=5 d=2.33857 t=2060
+shi ji 	實際	c=1 d=0.650509 t=2060
+shi ji shang 	實際上	c=1 d=0.677057 t=2060
+shi jian 	事件	c=2 d=1.83272 t=2060
+shi jian 	時間	c=1 d=0.895834 t=2060
+shi jiao 	視角	c=1 d=0.486752 t=2060
+shi pin 	視頻	c=3 d=2.54332 t=2060
+shi shi 	事實	c=1 d=0.778801 t=2060
+shi xiao 	失效	c=2 d=1.77009 t=2060
+shi yan 	實驗	c=1 d=0.895834 t=2060
+shi yong 	使用	c=4 d=2.83214 t=2060
+shou bi 	手臂	c=1 d=0.946485 t=2060
+shou dong 	手動	c=2 d=1.85572 t=2060
+shou xian 	首先	c=4 d=1.6512 t=2060
+shou yao 	首要	c=1 d=0.965605 t=2060
+shou you 	手遊	c=1 d=0.99005 t=2060
+shu ren 	熟人	c=2 d=0.926492 t=2060
+shu zhi 	數值	c=1 d=0.895834 t=2060
+shuang 	爽	c=0 d=0.099005 t=2060
+shuang 	雙	c=3 d=2.75098 t=2060
+shuang lin suan yan 	爽磷酸鹽	c=2 d=1.87697 t=2060
+shui 	水	c=1 d=0.99005 t=2060
+shun zhe 	順着	c=1 d=0.425283 t=2060
+shuo 	說	c=1 d=0.960789 t=2060
+shuo fa 	說法	c=1 d=0.579842 t=2060
+shuo hua 	說話	c=0 d=0.0394554 t=2060
+shuo hua zhe 	說話這	c=1 d=0.396531 t=2060
+shuo le 	說了	c=1 d=0.384812 t=2060
+shuo ming 	說明	c=1 d=0.955997 t=2060
+si fu 	私服	c=1 d=0.995012 t=2060
+si hu 	似乎	c=5 d=3.08099 t=2060
+si hu shi 	似乎是	c=1 d=0.923116 t=2060
+sui ji 	隨機	c=1 d=0.499074 t=2060
+sui yi 	隨意	c=1 d=0.514274 t=2060
+suo chu 	所處	c=1 d=0.50409 t=2060
+suo yi 	所以	c=10 d=4.91122 t=2060
+ta 	他	c=2 d=0.84032 t=2060
+ta 	它	c=9 d=3.55535 t=2060
+ta men 	他們	c=4 d=2.62103 t=2060
+ta ren 	他人	c=1 d=0.869358 t=2060
+tai 	太	c=1 d=0.831104 t=2060
+tai kong tan suo 	太空探索	c=0 d=0.099005 t=2060
+tai kong tan suo ji shu gong si 	太空探索技術公司	c=4 d=3.90192 t=2060
+tai mo hu 	太模糊	c=1 d=0.529935 t=2060
+tao chu 	逃出	c=1 d=0.418952 t=2060
+tao lun 	討論	c=6 d=3.51724 t=2060
+tao xin 	討薪	c=2 d=1.99501 t=2060
+te lang pu 	特朗普	c=1 d=0.995012 t=2060
+te zheng 	特徵	c=1 d=0.995012 t=2060
+ti 	提	c=0 d=0.099005 t=2060
+ti dao 	提到	c=1 d=0.869358 t=2060
+ti gong 	提供	c=2 d=1.24439 t=2060
+ti huan 	替換	c=1 d=0.819492 t=2060
+ti huan cheng 	替換成	c=1 d=0.955997 t=2060
+ti huan xia 	替換下	c=1 d=0.937067 t=2060
+ti ji 	提及	c=1 d=0.740818 t=2060
+ti ji 	體積	c=1 d=0.737123 t=2060
+ti wen 	提問	c=15 d=7.0879 t=2060
+ti xi 	體系	c=2 d=1.67867 t=2060
+tian bu 	填補	c=1 d=0.778801 t=2060
+tian jia 	添加	c=1 d=0.932394 t=2060
+tian ti 	天梯	c=1 d=0.995012 t=2060
+tiao chu 	跳出	c=1 d=0.516851 t=2060
+ting duo 	挺多	c=1 d=0.965605 t=2060
+ting liu 	停留	c=1 d=0.501576 t=2060
+ting yao 	停藥	c=1 d=1 t=2060
+tong shi 	同時	c=2 d=1.17192 t=2060
+tong yang 	同樣	c=1 d=0.882497 t=2060
+tou ming 	透明	c=1 d=0.70822 t=2060
+tou su 	投訴	c=0 d=0.0980199 t=2060
+tou su hou 	投訴後	c=1 d=0.985112 t=2060
+tu biao 	圖標	c=19 d=9.4259 t=2060
+tui dao 	推導	c=1 d=0.472367 t=2060
+wai 	外	c=1 d=0.737123 t=2060
+wai bu 	外部	c=1 d=0.585669 t=2060
+wai mai yuan 	外卖员	c=1 d=0.97531 t=2060
+wan cheng 	完成	c=1 d=0.918512 t=2060
+wan er 	玩兒	c=0 d=0.0965605 t=2060
+wan quan 	完全	c=1 d=0.545261 t=2060
+wan quan yi zhi 	完全一致	c=1 d=0.489192 t=2060
+wan yi 	玩意	c=1 d=0.970446 t=2060
+wan yi 	萬一	c=1 d=0.965605 t=2060
+wei 	未	c=1 d=0.932394 t=2060
+wei 	爲	c=0 d=0.0918512 t=2060
+wei bo 	韋伯	c=1 d=0.980199 t=2060
+wei chi 	維持	c=1 d=0.67032 t=2060
+wei fan 	違反	c=1 d=0.937067 t=2060
+wei he 	爲何	c=1 d=0.895834 t=2060
+wei hu 	維護	c=1 d=0.865022 t=2060
+wei hu xing 	維護性	c=1 d=0.970446 t=2060
+wei ming zi 	未明子	c=1 d=0.995012 t=2060
+wei rao 	圍繞	c=1 d=0.955997 t=2060
+wei shen me 	爲什麼	c=3 d=2.74975 t=2060
+wei shi nian mang man 	韦氏黏盲鳗	c=1 d=0.97531 t=2060
+wei te gen si tan 	維特根斯坦	c=2 d=1.18906 t=2060
+wei xie 	威脅	c=1 d=1 t=2060
+wen 	問	c=1 d=0.927743 t=2060
+wen jian jia 	文件夾	c=2 d=1.17155 t=2060
+wen ti 	問題	c=10 d=6.59457 t=2060
+wo 	我	c=3 d=1.99501 t=2060
+wo er fu 	沃爾夫	c=0 d=0.0794534 t=2060
+wo hai 	我還	c=0 d=0.0951229 t=2060
+wo hai xu yao 	我還需要	c=1 d=0.955997 t=2060
+wo jiu 	我就	c=1 d=0.810584 t=2060
+wo men 	我們	c=18 d=4.97172 t=2060
+wo ne 	我呢	c=0 d=0.099005 t=2060
+wo ne ti 	我呢提	c=1 d=0.995012 t=2060
+wo xian zai 	我現在	c=1 d=0.937067 t=2060
+wo you 	我有	c=1 d=0.878095 t=2060
+wu fa 	無法	c=2 d=1.67657 t=2060
+wu shi 	無視	c=1 d=0.650509 t=2060
+wu xiao 	無效	c=1 d=1 t=2060
+xi huan 	喜歡	c=1 d=0.904837 t=2060
+xi lie 	系列	c=3 d=2.17512 t=2060
+xi tong 	系統	c=11 d=6.96855 t=2060
+xi wang 	希望	c=0 d=0.0927743 t=2060
+xia 	下	c=0 d=0.163356 t=2060
+xia lai 	下來	c=1 d=0.965605 t=2060
+xia mian 	下面	c=1 d=0.524663 t=2060
+xia ren 	蝦仁	c=2 d=1.9802 t=2060
+xia yi ci 	下一次	c=1 d=0.634448 t=2060
+xian 	線	c=1 d=1.03784 t=2060
+xian ding 	限定	c=1 d=0.562705 t=2060
+xian shi 	現實	c=3 d=1.63912 t=2060
+xian xiang 	現象	c=1 d=0.99005 t=2060
+xian you 	現有	c=1 d=0.97531 t=2060
+xian zai 	現在	c=1 d=0.970446 t=2060
+xiang 	像	c=1 d=0.392586 t=2060
+xiang guan xing 	相關性	c=2 d=1.39551 t=2060
+xiang xin 	相信	c=2 d=0.844532 t=2060
+xiao guo 	效果	c=3 d=2.04731 t=2060
+xiao shi 	消失	c=1 d=0.856415 t=2060
+xiao xin 	小新	c=1 d=1 t=2060
+xie ding 	協定	c=1 d=0.726149 t=2060
+xie wei 	些微	c=1 d=0.680451 t=2060
+xin 	新	c=1 d=0.798516 t=2060
+xin bing 	新兵	c=8 d=4.03631 t=2060
+xin fang fa 	新方法	c=1 d=0.873716 t=2060
+xin jia 	新加	c=1 d=0.904837 t=2060
+xin kai 	新開	c=1 d=1 t=2060
+xin ren 	信任	c=4 d=1.87562 t=2060
+xin xi 	信息	c=3 d=1.52048 t=2060
+xin xi lan 	新西蘭	c=1 d=0.995012 t=2060
+xing 	型	c=1 d=0.923116 t=2060
+xing 	性	c=1 d=0.99005 t=2060
+xing tai 	形態	c=4 d=3.46151 t=2060
+xing yun 	幸運	c=1 d=0.822835 t=2060
+xiu bu 	修補	c=1 d=0.951229 t=2060
+xiu gai 	修改	c=2 d=1.57088 t=2060
+xiu gai xia 	修改下	c=1 d=0.900325 t=2060
+xiu zheng 	修正	c=9 d=4.3806 t=2060
+xu 	徐	c=2 d=1.82795 t=2060
+xu qiu 	需求	c=3 d=2.71508 t=2060
+xu yao 	需要	c=5 d=2.8762 t=2060
+xu yao zuo 	需要做	c=1 d=0.763379 t=2060
+xuan ze 	選擇	c=4 d=2.32159 t=2060
+xue zhi 	血脂	c=1 d=0.97531 t=2060
+yan jiang zhe 	演講者	c=2 d=1.51703 t=2060
+yan zheng 	驗證	c=1 d=0.985112 t=2060
+yao 	要	c=3 d=1.10923 t=2060
+yao bei 	要被	c=1 d=0.955997 t=2060
+yao qiu 	要求	c=3 d=2.34946 t=2060
+yao wu 	藥物	c=1 d=0.980199 t=2060
+yao zen me 	要怎麼	c=1 d=0.891366 t=2060
+yao zuo 	要做	c=1 d=0.71177 t=2060
+ye 	也	c=4 d=2.70715 t=2060
+ye bu neng 	也不能	c=1 d=0.932394 t=2060
+ye bu shi 	也不是	c=1 d=0.985112 t=2060
+ye bu zhi dao 	也不知道	c=1 d=0.869358 t=2060
+ye jiu shi 	也就是	c=2 d=1.33079 t=2060
+ye mei 	也沒	c=1 d=0.683861 t=2060
+ye shi 	也是	c=1 d=0.603506 t=2060
+ye su 	耶穌	c=3 d=2.98012 t=2060
+ye yao 	也要	c=1 d=0.995012 t=2060
+yi 	一	c=1 d=0.97531 t=2060
+yi 	以	c=1 d=0.941765 t=2060
+yi bian 	一遍	c=0 d=0.0384812 t=2060
+yi chang 	異常	c=4 d=2.43311 t=2060
+yi ge 	一個	c=18 d=5.67614 t=2060
+yi hou 	以後	c=0 d=0.0909373 t=2060
+yi ji 	以及	c=5 d=1.75365 t=2060
+yi jing 	已經	c=3 d=2.35997 t=2060
+yi kai shi 	一開始	c=1 d=0.856415 t=2060
+yi ke 	一顆	c=1 d=0.588605 t=2060
+yi ran 	依然	c=3 d=2.7526 t=2060
+yi ran zai 	依然在	c=1 d=0.97531 t=2060
+yi shang 	以上	c=1 d=0.790571 t=2060
+yi tao 	一套	c=1 d=0.65377 t=2060
+yi tiao 	一條	c=0 d=0.0843665 t=2060
+yi tiao gui ze 	一條規則	c=1 d=0.847894 t=2060
+yi wei 	以爲	c=1 d=0.955997 t=2060
+yi zhan 	一戰	c=2 d=1.0922 t=2060
+yi zhi 	一致	c=3 d=1.81911 t=2060
+yi zhong 	一種	c=1 d=0.625002 t=2060
+yin dao 	引導	c=1 d=0.740818 t=2060
+yin guo lian 	因果链	c=4 d=1.90198 t=2060
+yin pin 	音頻	c=1 d=0.882497 t=2060
+yin si 	隱私	c=1 d=1 t=2060
+yin wei 	因爲	c=7 d=2.39551 t=2060
+yin ying 	陰影	c=4 d=3.37676 t=2060
+yin ying bu fen 	陰影部分	c=1 d=0.965605 t=2060
+ying gai 	應該	c=4 d=2.71421 t=2060
+ying xiang 	影響	c=2 d=1.65394 t=2060
+yong 	用	c=11 d=5.82762 t=2060
+yong dao 	用到	c=1 d=0.408608 t=2060
+yong fa 	用法	c=1 d=0.831104 t=2060
+yong gao chao jie wei 	用高潮結尾	c=1 d=0.932394 t=2060
+you 	有	c=8 d=4.66609 t=2060
+you 	由	c=1 d=0.980199 t=2060
+you dui 	有對	c=1 d=0.782705 t=2060
+you guan 	有關	c=1 d=0.951229 t=2060
+you shi 	優勢	c=1 d=0.865022 t=2060
+you shi 	又是	c=1 d=0.985112 t=2060
+you xi 	遊戲	c=3 d=2.03224 t=2060
+you xia jiao 	右下角	c=2 d=1.21656 t=2060
+you xiao 	有效	c=1 d=0.980199 t=2060
+you yu 	由於	c=2 d=1.27765 t=2060
+you zhe 	有着	c=2 d=1.18845 t=2060
+yu ce 	預測	c=1 d=0.99005 t=2060
+yu dao 	遇到	c=2 d=0.912899 t=2060
+yu hang yuan 	宇航員	c=2 d=1.80977 t=2060
+yu she 	預設	c=3 d=2.24342 t=2060
+yu yan 	語言	c=1 d=0.778801 t=2060
+yu yan you xi 	语言游戏	c=1 d=0.683757 t=2060
+yu yan you xi gui ze 	语言游戏規則	c=1 d=0.806541 t=2060
+yuan ben 	原本	c=3 d=2.43654 t=2060
+yuan jiao 	圓角	c=1 d=0.913931 t=2060
+yuan sheng 	原生	c=1 d=0.985112 t=2060
+yuan yin 	原因	c=4 d=2.22261 t=2060
+yue ding 	約定	c=1 d=0.839457 t=2060
+yue shu 	約束	c=1 d=0.778801 t=2060
+yun zuo 	運作	c=1 d=0.960789 t=2060
+za ni 	咋你	c=1 d=0.394554 t=2060
+zai 	再	c=1 d=0.995012 t=2060
+zai 	在	c=17 d=4.85025 t=2060
+zai di yi zhong 	在第一種	c=1 d=0.481909 t=2060
+zai yi 	在意	c=0 d=0.0763379 t=2060
+zai zhi dan bai 	载脂蛋白	c=1 d=0.951229 t=2060
+zan bu 	暫不	c=1 d=0.918512 t=2060
+zao cheng 	造成	c=3 d=1.99589 t=2060
+ze shi 	則是	c=1 d=0.891366 t=2060
+zen yang 	怎樣	c=1 d=0.99005 t=2060
+zhan xian 	展現	c=3 d=2.70453 t=2060
+zhang hu 	賬戶	c=1 d=0.683861 t=2060
+zhao 	找	c=1 d=0.923116 t=2060
+zhao bu dao 	找不到	c=1 d=1 t=2060
+zhao dao 	找到	c=1 d=0.722527 t=2060
+zhao pian 	照片	c=1 d=0.99005 t=2060
+zhe 	者	c=1 d=0.566307 t=2060
+zhe 	這	c=5 d=2.49951 t=2060
+zhe ban 	這般	c=1 d=0.941765 t=2060
+zhe bu jin jin 	這不僅僅	c=1 d=0.960789 t=2060
+zhe fen 	這份	c=1 d=0.618783 t=2060
+zhe ge 	這個	c=23 d=6.92454 t=2060
+zhe gou cheng 	這構成	c=2 d=1.02912 t=2060
+zhe hu 	柘湖	c=1 d=0.733447 t=2060
+zhe hui 	這回	c=2 d=1.08881 t=2060
+zhe huo xu 	這或許	c=1 d=0.985112 t=2060
+zhe jian shi qing 	這件事情	c=1 d=0.600496 t=2060
+zhe li 	這裏	c=3 d=1.86638 t=2060
+zhe liang zhe 	這兩者	c=1 d=0.88692 t=2060
+zhe me 	這麼	c=1 d=0.882497 t=2060
+zhe shi 	這是	c=3 d=1.71257 t=2060
+zhe shi yi ge 	這是一個	c=1 d=0.951229 t=2060
+zhe wan yi 	這玩意	c=1 d=0.951229 t=2060
+zhe xie 	這些	c=4 d=2.91692 t=2060
+zhe yi dian 	這一點	c=1 d=0.786628 t=2060
+zhe zai 	這在	c=1 d=0.501576 t=2060
+zhen 	真	c=1 d=1 t=2060
+zhen de 	真的	c=1 d=0.900325 t=2060
+zheng que 	正確	c=1 d=0.852144 t=2060
+zheng shi 	正是	c=1 d=0.826959 t=2060
+zhi 	之	c=1 d=0.99005 t=2060
+zhi biao 	指標	c=3 d=2.77144 t=2060
+zhi bo 	直播	c=1 d=0.937067 t=2060
+zhi dan bai 	脂蛋白	c=1 d=0.965605 t=2060
+zhi dao 	知道	c=7 d=1.99168 t=2060
+zhi dao le 	知道了	c=1 d=0.794534 t=2060
+zhi ding 	制定	c=1 d=0.932394 t=2060
+zhi ding 	指定	c=1 d=0.937067 t=2060
+zhi hou 	之後	c=2 d=1.39101 t=2060
+zhi jie 	直接	c=1 d=0.909373 t=2060
+zhi lei 	之類	c=1 d=0.822835 t=2060
+zhi li 	智力	c=1 d=0.522046 t=2060
+zhi nan zhen 	指南針	c=1 d=0.927743 t=2060
+zhi neng 	只能	c=6 d=3.26997 t=2060
+zhi shao 	至少	c=1 d=0.786628 t=2060
+zhi shi 	知識	c=5 d=2.13053 t=2060
+zhi shi jie dian 	知識節點	c=4 d=2.55234 t=2060
+zhi wai 	之外	c=1 d=0.767206 t=2060
+zhi xian 	直線	c=1 d=0.694197 t=2060
+zhi xing 	執行	c=4 d=2.95088 t=2060
+zhi yao 	只要	c=2 d=1.2828 t=2060
+zhi you 	只有	c=1 d=0.726149 t=2060
+zhong 	中	c=19 d=5.5138 t=2060
+zhong jian 	中間	c=1 d=0.946485 t=2060
+zhong wen 	中文	c=2 d=1.99501 t=2060
+zhong zhong 	種種	c=1 d=0.609571 t=2060
+zhu guan 	主觀	c=3 d=1.36813 t=2060
+zhu ti 	主題	c=0 d=0.0831104 t=2060
+zhu ti se 	主題色	c=1 d=0.83527 t=2060
+zhu yao 	主要	c=2 d=1.77404 t=2060
+zhuan wei 	專爲	c=1 d=0.554327 t=2060
+zhuan yi 	轉移	c=2 d=1.96531 t=2060
+zhuan you 	專有	c=1 d=0.869358 t=2060
+zhuang tai 	狀態	c=6 d=2.54497 t=2060
+zhuang tai kong jian 	状态空间	c=1 d=0.509156 t=2060
+zhuang tai lan 	狀態欄	c=3 d=2.03491 t=2060
+zhuo mian 	桌面	c=1 d=0.941765 t=2060
+zi ben 	資本	c=1 d=0.913931 t=2060
+zi dai 	自帶	c=1 d=0.67032 t=2060
+zi dong 	自動	c=1 d=0.97531 t=2060
+zi ji 	自己	c=9 d=4.62664 t=2060
+zi ran 	自然	c=0 d=0.0865022 t=2060
+zi ran na 	自然那	c=1 d=0.869358 t=2060
+zi shen 	自身	c=1 d=0.546074 t=2060
+zi ti 	字體	c=2 d=1.71948 t=2060
+zong jie 	總結	c=1 d=0.937067 t=2060
+zong shi 	總是	c=1 d=0.831104 t=2060
+zou hou 	走後	c=1 d=0.918512 t=2060
+zu qiu 	足球	c=1 d=0.99005 t=2060
+zui chu 	最初	c=2 d=0.863677 t=2060
+zui jian 	最简	c=1 d=0.995012 t=2060
+zui zhong 	最終	c=2 d=1.53028 t=2060
+zuo 	做	c=3 d=1.48903 t=2060
+zuo bu dao 	做不到	c=1 d=0.97531 t=2060
+zuo dao 	做到	c=1 d=1.06409 t=2060
+zuo dao de 	做到的	c=1 d=0.748264 t=2060
+zuo wei 	作爲	c=1 d=0.591555 t=2060
+zuo yi xie 	做一些	c=1 d=0.946485 t=2060
+zuo yong 	作用	c=1 d=0.66365 t=2060
