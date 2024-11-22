@@ -9,3 +9,5 @@
 xterm和mpv，用xprop查看，可以看到icon栏中它填写的路径一类的怪东西，而不是xterm 和mpv的标准名字
 而在plasmashell中它们的标准明子大概可以被读到
 结果是，alt tab中的这两个程序，无法给它们设定icon，而plasmashell中却可以
+
+因此也说明alt tab中不能用aow，因为aow一致性太高，做不到就比较显眼
