@@ -106,6 +106,7 @@
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
   <Menu alreadyVisited="1" name="tools" noMerge="1">
    <text translationDomain="kxmlgui6">&amp;Tools</text>
    <Action name="open_preferred_search_tool"/>
@@ -160,6 +161,7 @@
   <Action name="show_places_panel"/>
   <Action name="additional_info"/>
   <Action name="show_preview"/>
+  <Action name="show_hidden_files"/>
   <Action name="show_in_groups"/>
   <Action name="icons"/>
   <Action name="details"/>
