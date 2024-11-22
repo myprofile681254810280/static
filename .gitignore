@@ -1,6 +1,6 @@
-rime/sync
-rime/user.yaml
-rime/installation.yaml
+local-share/rime/sync
+local-share/rime/user.yaml
+local-share/rime/installation.yaml
 *.userdb
 
 # Byte-compiled / optimized / DLL files
