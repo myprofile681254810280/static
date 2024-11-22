@@ -2,3 +2,10 @@
 改动的位置很多，很麻烦，不如指定同一个theme-default，之后改动这里的link来一起调动
 
 此外，这里有一个default目录，它的作用似乎只有给x提供鼠标指针，gtk或是qt或是其他什么都不会尊重这个default，所以我们也没有占据这个default来做些什么
+
+
+
+----------------------
+xterm和mpv，用xprop查看，可以看到icon栏中它填写的路径一类的怪东西，而不是xterm 和mpv的标准名字
+而在plasmashell中它们的标准明子大概可以被读到
+结果是，alt tab中的这两个程序，无法给它们设定icon，而plasmashell中却可以
