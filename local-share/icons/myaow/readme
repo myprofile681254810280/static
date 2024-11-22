@@ -29,3 +29,6 @@ Context=Applications
 
 如果有图标缺失，去/usr/share/applications/中找，到底用了哪个图标
 如果没有applications，那大概就是进程名或者wm class
+
+-----------------
+这个目录存放对aow的修改图标，然后供其他icon调用

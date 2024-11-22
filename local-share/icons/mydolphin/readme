@@ -1,0 +1,19 @@
+
+这个是给plasmashell等任务栏用的，把breeze的apps替换成aow的白色apps图标，搭配breeze原本的白色状态栏图标
+
+现在新增一个测试给dolphin添加缺失的date sort等图标
+
+不过这些缺失的图标，似乎确实没有默认的调用名
+
+
+由于la的维护停止了，所以要考虑回到有维护的breeze
+而我们要留下la中喜欢的元素，主要是文件夹，文件夹至少涉及到两个类型  place 和mimetype ,所以这两个要嫁接过来
+
+对于dolphin来说，还是用breeze更好，因为它的右键菜单中都有很多图标调用，肯定是breeze更能满足它
+
+但是，这个图标集果然还是要和plasmashell分开，因为文件右键打开需要调用app，
+dolphin自己是白色配色，再使用白色的aow图标就不合适了
+
+不过applications似乎还是搭配la更顺眼
+
+结论是place mimtype apps 都要用la的, 而其中place和mimtype还都要用旧版的
