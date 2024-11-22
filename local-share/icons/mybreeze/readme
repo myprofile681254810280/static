@@ -1,2 +1,6 @@
 
 这个是给plasmashell等任务栏用的，把breeze的apps替换成aow的白色apps图标，搭配breeze原本的白色状态栏图标
+
+现在新增一个测试给dolphin添加缺失的date sort等图标
+
+不过这些缺失的图标，似乎确实没有默认的调用名

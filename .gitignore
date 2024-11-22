@@ -2,6 +2,7 @@ local-share/rime/sync
 local-share/rime/user.yaml
 local-share/rime/installation.yaml
 *.userdb
+.directory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
