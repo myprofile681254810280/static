@@ -17,3 +17,8 @@ dolphin自己是白色配色，再使用白色的aow图标就不合适了
 不过applications似乎还是搭配la更顺眼
 
 结论是place mimtype apps 都要用la的, 而其中place和mimtype还都要用旧版的
+
+
+有一个奇怪的现象是，我们用了新版的mimtype，出现的文件夹却是旧版，但是如果不用，文件就就会变成breeze版本
+文件夹的mimetype是inode
+似乎la的新版是缺失inode的，这样才会轮到place图标的使用机会
