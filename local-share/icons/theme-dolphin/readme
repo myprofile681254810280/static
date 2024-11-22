@@ -30,3 +30,7 @@ dolphin自己是白色配色，再使用白色的aow图标就不合适了
 aow的token文件夹其实还可以，但是必须是和它匹配的尺寸，dolphin中的图标总是拉到最大的，aow的png在拉大后自然会变糊，
 因此，即使换成黑色配色的dolphin，aow还是不适合的
 
+----------------------
+或许应该用这个做default，default的用处，主要是alt tab，只要apps对应上就可以了
+place和mimtype上似乎没什么要求
+但是除此以外，更琐碎的一些图标，比如konsole右键中会用到，这些或许应该用breeze更好，也就是这个主题，而不是隔壁的myla
