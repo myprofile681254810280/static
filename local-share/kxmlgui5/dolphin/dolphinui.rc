@@ -100,6 +100,7 @@
   </Menu>
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
   <Menu alreadyVisited="1" name="tools" noMerge="1">
    <text translationDomain="kxmlgui6">&amp;Tools</text>
    <Action name="open_preferred_search_tool"/>
@@ -150,6 +151,7 @@
   <Action name="edit_undo"/>
   <Action name="show_filter_bar"/>
   <Action name="invert_selection"/>
+  <Action name="additional_info"/>
   <Spacer name="spacer_0"/>
   <Action name="show_places_panel"/>
   <Action name="show_preview"/>

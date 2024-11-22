@@ -1,0 +1,8 @@
+配置文件是.directory 
+
+;;这里是默认的文件夹视图设定,包括preview,反向日期排序,
+;;注意下面的timestamp 需要和dolphinrc匹配,否则会被覆盖
+;;默认设定为日期排序会更便利,而要求name排序的情形则非常少见,所以可以手动调整
+;;日期排序并不便利,只有少数文件夹需要,不过chapter下的文件夹是问题
+;;SortOrder=1
+;;SortRole=modificationtime
