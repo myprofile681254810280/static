@@ -18,3 +18,8 @@ dolphin自己是白色配色，再使用白色的aow图标就不合适了
 ------------------
 这个是plasmashell专用的
 apps图标用aow替换掉，并且要补充几个丢失的
+
+为了Desktop文件夹，place和mimetype要改成la的
+
+
+

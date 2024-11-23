@@ -133,7 +133,7 @@ DialogSizes=16,22,32,48,64,128,256
 ########## Directories
 ########## ordered by category and alphabetically
 
-Directories=actions/12,actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,animations/16,animations/22,apps/16,apps/22,apps/32,apps/48,preferences/22,preferences/32,applets/16,applets/22,applets/48,applets/64,applets/128,applets/256,categories/22,categories/32,devices/16,devices/22,devices/32,devices/64,emblems/8,emblems/16,emblems/22,emotes/22,mimetypes/16,mimetypes/22,mimetypes/32,mimetypes/64,places/16,places/22,places/32,places/48,places/96,places/64,status/16,status/22,status/24,status/32,status/48,status/64,MaterialOS/16x16/apps,MaterialOS/22x22/apps,MaterialOS/24x24/apps,MaterialOS/32x32/apps,MaterialOS/48x48/apps,MaterialOS/64x64/apps,MaterialOS/84x84/apps,MaterialOS/128x128/apps,aow/128x128/apps,aow/64x64/apps,aow/48x48/apps,aow/32x32/apps,aow/22x22/apps,aow/24x24/apps,aow/16x16/apps,patch-aow/128/apps,myactions/32,myplaces/16x16,myplaces/scalable,myplaces/symbolic,mymimetypes/scalable,mymimetypes/symbolic
+Directories=actions/12,actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,animations/16,animations/22,apps/16,apps/22,apps/32,apps/48,preferences/22,preferences/32,applets/16,applets/22,applets/48,applets/64,applets/128,applets/256,categories/22,categories/32,devices/16,devices/22,devices/32,devices/64,emblems/8,emblems/16,emblems/22,emotes/22,mimetypes/16,mimetypes/22,mimetypes/32,mimetypes/64,places/16,places/22,places/32,places/48,places/96,places/64,status/16,status/22,status/24,status/32,status/48,status/64,MaterialOS/16x16/apps,MaterialOS/22x22/apps,MaterialOS/24x24/apps,MaterialOS/32x32/apps,MaterialOS/48x48/apps,MaterialOS/64x64/apps,MaterialOS/84x84/apps,MaterialOS/128x128/apps,aow/128x128/apps,aow/64x64/apps,aow/48x48/apps,aow/32x32/apps,aow/22x22/apps,aow/24x24/apps,aow/16x16/apps,patch-aow/128/apps,myactions/32,myplaces/16x16,myplaces/scalable,myplaces/symbolic,mymimetypes/scalable,mymimetypes/symbolic,patch-la/places/16x16,patch-la/places/scalable,patch-la/places/symbolic,la/mimetypes/scalable,la/mimetypes/symbolic
 
 ScaledDirectories=actions/16@2x,actions/16@3x,actions/22@2x,actions/22@3x,actions/24@2x,actions/24@3x,actions/32@2x,actions/32@3x,animations/16@2x,animations/16@3x,apps/16@2x,apps/16@3x,apps/22@2x,apps/22@3x,devices/16@2x,devices/16@3x,devices/22@2x,devices/22@3x,devices/32@2x,devices/32@3x,emblems/16@2x,emblems/16@3x,emblems/22@2x,emblems/22@3x,emotes/22@2x,emotes/22@3x,mimetypes/16@2x,mimetypes/16@3x,mimetypes/22@2x,mimetypes/22@3x,places/16@2x,places/16@3x,places/22@2x,places/22@3x,status/16@2x,status/16@3x,status/22@2x,status/22@3x
 
@@ -567,140 +567,140 @@ Type=Fixed
 ########## Mimetypes
 ########## ordered by size
 
-#16x16 - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[mimetypes/16]
-Size=16
-Context=MimeTypes
-Type=Fixed
-MinSize=16
-
-#16x16@2x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[mimetypes/16@2x]
-Size=16
-Scale=2
-Context=MimeTypes
-Type=Fixed
-MinSize=16
-
-#16x16@3x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[mimetypes/16@3x]
-Size=16
-Scale=3
-Context=MimeTypes
-Type=Fixed
-MinSize=16
-
-#22x22 - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[mimetypes/22]
-Size=22
-Context=MimeTypes
-Type=Scalable
-MinSize=22
-MaxSize=24
-
-#22x22@2x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[mimetypes/22@2x]
-Size=22
-Scale=2
-Context=MimeTypes
-Type=Scalable
-MinSize=22
-MaxSize=24
-
-#22x22@3x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[mimetypes/22@3x]
-Size=22
-Scale=3
-Context=MimeTypes
-Type=Scalable
-MinSize=22
-MaxSize=24
-
-#32x32 - Scalable - For file type icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
-[mimetypes/32]
-Size=32
-Context=MimeTypes
-Type=Fixed
-
-#64x64 - Scalable - For file type icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
-[mimetypes/64]
-Size=64
-Context=MimeTypes
-Type=Scalable
-MinSize=64
-MaxSize=256
-
-########## Places
-########## ordered by size
-
-#16x16 - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[places/16]
-Size=16
-Context=Places
-Type=Fixed
-MinSize=16
-
-#16x16@2x - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[places/16@2x]
-Size=16
-Scale=2
-Context=Places
-Type=Fixed
-MinSize=16
-
-#16x16@3x - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[places/16@3x]
-Size=16
-Scale=3
-Context=Places
-Type=Fixed
-MinSize=16
-
-#22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
-[places/22]
-Size=22
-Context=Places
-Type=Fixed
-
-#22x22@2x - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
-[places/22@2x]
-Size=22
-Scale=2
-Context=Places
-Type=Fixed
-
-#22x22@3x - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
-[places/22@3x]
-Size=22
-Scale=3
-Context=Places
-Type=Fixed
-
-#32x32 - Fixed size - For folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
-[places/32]
-Size=32
-Context=Places
-Type=Fixed
-
-#48x48 - Fixed size - For folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
-[places/48]
-Size=48
-Context=Places
-Type=Fixed
-
-#64x64 - Fixed size - For folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
-[places/64]
-Size=64
-Context=Places
-Type=Fixed
-
-#96x96 - Scalable - For folder icons >!!!ONLY!!!< - Scalable to the following sizes: 96x96 (default), 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
-[places/96]
-Size=96
-Context=Places
-Type=Scalable
-MinSize=96
-MaxSize=256
+##16x16 - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[mimetypes/16]
+#Size=16
+#Context=MimeTypes
+#Type=Fixed
+#MinSize=16
+#
+##16x16@2x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[mimetypes/16@2x]
+#Size=16
+#Scale=2
+#Context=MimeTypes
+#Type=Fixed
+#MinSize=16
+#
+##16x16@3x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[mimetypes/16@3x]
+#Size=16
+#Scale=3
+#Context=MimeTypes
+#Type=Fixed
+#MinSize=16
+#
+##22x22 - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[mimetypes/22]
+#Size=22
+#Context=MimeTypes
+#Type=Scalable
+#MinSize=22
+#MaxSize=24
+#
+##22x22@2x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[mimetypes/22@2x]
+#Size=22
+#Scale=2
+#Context=MimeTypes
+#Type=Scalable
+#MinSize=22
+#MaxSize=24
+#
+##22x22@3x - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[mimetypes/22@3x]
+#Size=22
+#Scale=3
+#Context=MimeTypes
+#Type=Scalable
+#MinSize=22
+#MaxSize=24
+#
+##32x32 - Scalable - For file type icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+#[mimetypes/32]
+#Size=32
+#Context=MimeTypes
+#Type=Fixed
+#
+##64x64 - Scalable - For file type icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+#[mimetypes/64]
+#Size=64
+#Context=MimeTypes
+#Type=Scalable
+#MinSize=64
+#MaxSize=256
+#
+########### Places
+########### ordered by size
+#
+##16x16 - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[places/16]
+#Size=16
+#Context=Places
+#Type=Fixed
+#MinSize=16
+#
+##16x16@2x - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[places/16@2x]
+#Size=16
+#Scale=2
+#Context=Places
+#Type=Fixed
+#MinSize=16
+#
+##16x16@3x - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#[places/16@3x]
+#Size=16
+#Scale=3
+#Context=Places
+#Type=Fixed
+#MinSize=16
+#
+##22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
+#[places/22]
+#Size=22
+#Context=Places
+#Type=Fixed
+#
+##22x22@2x - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
+#[places/22@2x]
+#Size=22
+#Scale=2
+#Context=Places
+#Type=Fixed
+#
+##22x22@3x - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
+#[places/22@3x]
+#Size=22
+#Scale=3
+#Context=Places
+#Type=Fixed
+#
+##32x32 - Fixed size - For folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+#[places/32]
+#Size=32
+#Context=Places
+#Type=Fixed
+#
+##48x48 - Fixed size - For folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+#[places/48]
+#Size=48
+#Context=Places
+#Type=Fixed
+#
+##64x64 - Fixed size - For folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+#[places/64]
+#Size=64
+#Context=Places
+#Type=Fixed
+#
+##96x96 - Scalable - For folder icons >!!!ONLY!!!< - Scalable to the following sizes: 96x96 (default), 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+#[places/96]
+#Size=96
+#Context=Places
+#Type=Scalable
+#MinSize=96
+#MaxSize=256
 
 ########## Status
 ########## ordered by size
@@ -780,4 +780,40 @@ Type=Fixed
 Size=128
 Context=Applications
 Type=Fixed
+
+[patch-la/places/16x16]
+Size=16
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=22
+
+[patch-la/places/scalable]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=256
+
+[patch-la/places/symbolic]
+Size=16
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=128
+
+[la/mimetypes/scalable]
+Size=48
+Context=MimeTypes
+Type=Scalable
+MinSize=8
+MaxSize=256
+
+[la/mimetypes/symbolic]
+Size=16
+Context=MimeTypes
+Type=Scalable
+MinSize=8
+MaxSize=22
+
 
