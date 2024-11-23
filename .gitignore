@@ -1,6 +1,6 @@
-local-share/rime/sync
-local-share/rime/user.yaml
-local-share/rime/installation.yaml
+rime/sync
+rime/user.yaml
+rime/installation.yaml
 *.userdb
 .directory
 

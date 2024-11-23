@@ -1,13 +1,14 @@
-ROOT=~/static
+ROOT="$(dirname "$(realpath "$0")")"
+echo "$ROOT"
 
-ln -s $ROOT/home/.icons                 ~/
 
-ln -s $ROOT/local-share/fcitx5          ~/.local/share/
-ln -s $ROOT/local-share/icons           ~/.local/share/
-ln -s $ROOT/local-share/fonts           ~/.local/share/
-ln -s $ROOT/local-share/color-schemes   ~/.local/share/
-ln -s $ROOT/local-share/kxmlgui5        ~/.local/share/
-ln -s $ROOT/local-share/dolphin         ~/.local/share/
 
-ln -s $ROOT/config/Kvantum              ~/.config/
-ln -s $ROOT/config/kwinrulesrc          ~/.config/
+mv ~/.icons /dev/shm/
+mv ~/.local/share/icons /dev/shm/
+mv ~/.local/share/fonts /dev/shm/
+mv ~/.local/share/fcitx5 /dev/shm/
+
+ln -s "$ROOT/.icons"          ~/
+ln -s "$ROOT/icons"          ~/.local/share/
+ln -s "$ROOT/fcitx5"         ~/.local/share/
+ln -s "$ROOT/fonts"          ~/.local/share/
