@@ -107,6 +107,8 @@
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
   <Menu alreadyVisited="1" name="tools" noMerge="1">
    <text translationDomain="kxmlgui6">&amp;Tools</text>
    <Action name="open_preferred_search_tool"/>
@@ -159,6 +161,7 @@
   <Action name="invert_selection"/>
   <Spacer name="spacer_0"/>
   <Action name="show_places_panel"/>
+  <Action name="options_show_statusbar"/>
   <Action name="additional_info"/>
   <Action name="show_preview"/>
   <Action name="show_hidden_files"/>
@@ -223,5 +226,6 @@
   <Action name="sort_by_text"/>
   <Action icon="view-sort-ascending" name="ascending"/>
   <Action icon="view-sort-descending" name="descending"/>
+  <Action icon="file-zoom-in" name="options_show_statusbar"/>
  </ActionProperties>
 </gui>
