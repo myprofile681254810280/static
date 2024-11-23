@@ -1,8 +1,6 @@
 ROOT="$(dirname "$(realpath "$0")")"
 echo "$ROOT"
 
-
-
 mv ~/.icons /dev/shm/
 mv ~/.local/share/icons /dev/shm/
 mv ~/.local/share/fonts /dev/shm/
