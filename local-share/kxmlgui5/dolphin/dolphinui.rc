@@ -109,6 +109,13 @@
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
+  <Separator weakSeparator="1"/>
   <Menu alreadyVisited="1" name="tools" noMerge="1">
    <text translationDomain="kxmlgui6">&amp;Tools</text>
    <Action name="open_preferred_search_tool"/>
@@ -150,16 +157,9 @@
   <Action name="go_back"/>
   <Action name="go_up"/>
   <Action name="go_forward"/>
-  <Action name="view_redisplay"/>
   <Action name="url_navigators"/>
   <Action name="select_all"/>
-  <Action name="edit_cut"/>
-  <Action name="edit_copy"/>
-  <Action name="edit_paste"/>
   <Action name="edit_undo"/>
-  <Action name="show_filter_bar"/>
-  <Action name="invert_selection"/>
-  <Spacer name="spacer_0"/>
   <Action name="show_places_panel"/>
   <Action name="options_show_statusbar"/>
   <Action name="additional_info"/>
@@ -168,6 +168,7 @@
   <Action name="show_in_groups"/>
   <Action name="icons"/>
   <Action name="details"/>
+  <Spacer name="spacer_0"/>
   <!--分割符-->
   <Action name="ascending"/>
   <Action name="descending"/>
@@ -216,16 +217,17 @@
   <Action name="help_contents" shortcut="Ctrl+F1"/>
   <Action name="icons" priority="0"/>
   <Action name="new_tab" shortcut="Ctrl+T; "/>
-  <Action iconText="Date" name="sort_by_modificationtime"/>
+  <Action iconText="D" name="sort_by_modificationtime"/>
   <Action name="stop" priority="0"/>
   <Action name="toggle_filter" priority="0"/>
   <Action name="toggle_search" priority="0"/>
   <Action name="view_zoom_in" priority="0"/>
   <Action name="view_zoom_out" priority="0"/>
   <Action name="view_zoom_reset" priority="0"/>
-  <Action name="sort_by_text"/>
+  <Action iconText="N" name="sort_by_text"/>
   <Action icon="view-sort-ascending" name="ascending"/>
   <Action icon="view-sort-descending" name="descending"/>
   <Action icon="file-zoom-in" name="options_show_statusbar"/>
+  <Action iconText="S" name="sort_by_size"/>
  </ActionProperties>
 </gui>
