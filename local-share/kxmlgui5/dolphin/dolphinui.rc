@@ -217,17 +217,17 @@
   <Action name="help_contents" shortcut="Ctrl+F1"/>
   <Action name="icons" priority="0"/>
   <Action name="new_tab" shortcut="Ctrl+T; "/>
-  <Action iconText="D" name="sort_by_modificationtime"/>
+  <Action iconText="时" name="sort_by_modificationtime"/>
   <Action name="stop" priority="0"/>
   <Action name="toggle_filter" priority="0"/>
   <Action name="toggle_search" priority="0"/>
   <Action name="view_zoom_in" priority="0"/>
   <Action name="view_zoom_out" priority="0"/>
   <Action name="view_zoom_reset" priority="0"/>
-  <Action iconText="N" name="sort_by_text"/>
+  <Action iconText="名" name="sort_by_text"/>
   <Action icon="view-sort-ascending" name="ascending"/>
   <Action icon="view-sort-descending" name="descending"/>
   <Action icon="file-zoom-in" name="options_show_statusbar"/>
-  <Action iconText="S" name="sort_by_size"/>
+  <Action iconText="大" name="sort_by_size"/>
  </ActionProperties>
 </gui>
